@@ -40,3 +40,12 @@ input {
   align-items: center;
   margin-right: 5px;
 }
+
+.product-img {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.product-add {
+  width: 100%;
+}
